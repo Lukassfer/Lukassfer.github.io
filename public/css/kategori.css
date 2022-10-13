@@ -1,0 +1,13 @@
+.carousel-inner {
+    height: 80vh;
+}
+
+@media only screen and (max-width: 576px) {
+    .kategori {
+        height: 100%;
+    }
+
+    .carousel-inner {
+        height: 35vh;
+    }
+}
